@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** exploring in
 
 ## 🔥 About Me
 - 🏫 **Education**: Computer Science, Government College of Engineering and Research, Avasari (GCOEARA)
-- 🌍 Founder of [**Nisarga Pratishthan**](https://nisargapratishthan.com) (Environmental Awareness Platform)
 - 🤖 Working on a **Disease Prediction Project** (Heart Disease, Diabetes, Parkinson's Disease, and Skin Diseases)
+- 🛡️ Cybersecurity Enthusiast, exploring how to secure digital systems and protect data.
 - 🧠 Learning **Data Structures and Algorithms in Java**
-- 💡 Interested in **Machine Learning**, **React**, and **Environmental Ethics**
+- 💡 Interested in **Machine Learning**, **React**, **Cybersecurity**, and **Environmental Ethics**
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** exploring in
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Cybersecurity-0078D4?style=for-the-badge&logo=secure&logoColor=white" alt="Cybersecurity">
 </p>
 
 ---
@@ -37,7 +37,6 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** exploring in
 ---
 
 ## 🌱 Projects
-- 🌐 [**Nisarga Pratishthan**](https://nisargapratishthan.com): Promoting environmental awareness.
 - 💻 **Disease Prediction Website**:  
    A web application utilizing machine learning to predict diseases like:
    - Heart Disease  
@@ -48,16 +47,32 @@ Welcome to my GitHub! I'm a passionate **Computer Science student** exploring in
 
 ---
 
+## 🩺 Skin Disease Prediction
+The **Skin Disease Prediction** module is a significant component of the larger Disease Prediction Project. It aims to assist in the early detection of various skin conditions and improve the accuracy of diagnoses.
+
+### Project Features:
+- 🧪 **Classification**: Predicts multiple skin diseases using machine learning models trained on structured medical datasets.
+- 🖼️ **Image Processing**:  
+   - Planned integration of **Convolutional Neural Networks (CNNs)** for analyzing dermatological images.
+   - Support for high-resolution image uploads and analysis.
+- 🌟 **Key Focus Areas**:
+   - Early identification of conditions such as eczema, psoriasis, melanoma, Melanocytic Nevi ,Basal Cell Carcinoma:.
+   - Providing probabilistic scores for diagnosis to aid dermatologists.
+   - Leveraging ensemble methods to improve prediction accuracy.
+- 📈 **Future Enhancements**:  
+   - Integration of LSTM models for temporal analysis in chronic conditions.  
+   - Building a **user-friendly dashboard** for patients and healthcare professionals to track predictions and visualize progress.
+   - Support for multilingual interfaces to make the tool accessible globally.
+
+---
+
 ## 🌐 Let's Connect!
 
 <p>
-  <a href="https://nisargapratishthan.com">
-    <img src="https://img.shields.io/badge/Website-Nisarga-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://linkedin.com/in/pratiknikam">
+  <a href="https://https://www.linkedin.com/in/pratik-shashikant-nikam/">
     <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Nikam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:pratiknikam@example.com">
+  <a href="nikampratik1306@gmail.com">
     <img src="https://img.shields.io/badge/Email-pratiknikam%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
