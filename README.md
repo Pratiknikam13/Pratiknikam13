@@ -73,6 +73,6 @@ The **Skin Disease Prediction** module is a significant component of the larger 
     <img src="https://img.shields.io/badge/LinkedIn-Pratik%20Nikam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="nikampratik1306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pratiknikam%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Pratik Nikam-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
